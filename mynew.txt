@@ -1,6 +1,1 @@
-hellow
-<<<<<<< HEAD
-word!xxxyyy
-=======
-word
->>>>>>> fe6e1adf688e960bb6a700136f6a767c9c87411e
+hello world!
